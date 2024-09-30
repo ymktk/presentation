@@ -1,5 +1,32 @@
 # Takahiro Yamaki Presentation List
 
+### CI/CD Practices at Singapore Exchange
+- Dec/2023 @[DevOpsCon](https://devopscon.io/continuous-delivery-automation/ci-cd-practices/)
+- Summary
+    - CI: Increase internal developes' productivity
+    - CD: Controlled process to endure that our SDLC is comliant with finacial servicies industry requirements
+- Keywords
+    - Standarization and Customization
+    - GitOps
+    - Binary promotion
+    - Credential management
+
+### Security Practices in DevOps
+- 11/Oct/2023 @Cloud Expo Asia
+- Summary
+    - CD: Controlled process to endure that our SDLC is comliant with finacial servicies
+- Keywords
+    - GitOps
+    - Binary promotion
+    - Credential management
+
+### DevSecOps policy and implementation
+- 6/Sep/2023 @[DevOps Talk Conference](https://www.linkedin.com/posts/devops-talks_sgx-devsecops-singapore-activity-7090103499702620161-m_1g)
+- Summary
+    - CI/CD system for internal developers
+    - CI: Increase internal developes' productivity
+    - CD: Controlled process to endure that our SDLC is comliant with finacial servicies industry requirements
+
 ### KPI to reduce our development lead time
 - SlideShare is [here](https://www.slideshare.net/rakutentech/kpi-supported-by)
 - 4/Jul/2019 @[Rakuten Tech Meetup #2](https://rakuten.connpass.com/event/132590/)

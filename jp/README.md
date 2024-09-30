@@ -1,5 +1,32 @@
 # 山木隆寛 プレゼンテーション 一覧
 
+### CI/CD Practices at Singapore Exchange
+- Dec/2023 @[DevOpsCon](https://devopscon.io/continuous-delivery-automation/ci-cd-practices/)
+- Summary
+    - CI: 内部デベロッパー向け生産性改善
+    - CD: 金融セクター対応ソフトウェア開発ライフサイクル管理
+- Keywords
+    - 標準化とカスタマイズ
+    - GitOps
+    - バイナリ プロモーション
+    - クレデンシャル管理
+
+### Security Practices in DevOps
+- 11/Oct/2023 @Cloud Expo Asia
+- Summary
+    - CD: 金融セクター対応ソフトウェア開発ライフサイクル管理
+- Keywords
+    - GitOps
+    - バイナリ プロモーション
+    - クレデンシャル管理
+
+### DevSecOps policy and implementation
+- 6/Sep/2023 @[DevOps Talk Conference](https://www.linkedin.com/posts/devops-talks_sgx-devsecops-singapore-activity-7090103499702620161-m_1g)
+- Summary
+    - 内部デベロッパー向け CI/CD システム
+    - CI: 内部デベロッパー向け生産性改善
+    - CD: 金融セクター対応ソフトウェア開発ライフサイクル管理
+
 ### エンジニアチームにとって手の届くKPIを考えて、仕事に取り入れてみた supported by アトラクタ原田騎郎さん
 - スライドは [こちら](https://www.slideshare.net/rakutentech/kpi-supported-by)
 - 2019/07/04 @[Rakuten Tech Meetup #2 データで切り拓くソフトウェア品質の未来](https://rakuten.connpass.com/event/132590/)
